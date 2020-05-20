@@ -1,0 +1,70 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1590009438737' stop='1590009451108'>
+    <name>Login</name>
+    <title>Login</title>
+    <test-cases>
+        <test-case start='1590009438738' status='failed' stop='1590009442367'>
+            <name>Login com sucesso</name>
+            <title>Login com sucesso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e284b5aa-fe8c-445c-86ce-519c607e28ef-attachment.png' type='image/png' size='27062'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Ana Sousa' to equal 'Afdsfsda'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.it (/home/alucas/Documents/code/project-protractor/specs/login.specs.js:20:38)
+                    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25
+                    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+                    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+                    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)
+                    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)
+                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1590009442369' status='passed' stop='1590009444688'>
+            <name>senha incorreta</name>
+            <title>senha incorreta</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6bf89c53-72a6-4447-8f4e-b977c698446a-attachment.png' type='image/png' size='56300'/>
+            </attachments>
+        </test-case>
+        <test-case start='1590009444688' status='passed' stop='1590009447397'>
+            <name>email não cadastrado</name>
+            <title>email não cadastrado</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d93c46d8-3cea-47f0-a1d2-4b78f95ec998-attachment.png' type='image/png' size='55868'/>
+            </attachments>
+        </test-case>
+        <test-case start='1590009447397' status='passed' stop='1590009449265'>
+            <name>Email em branco</name>
+            <title>Email em branco</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d0f2082b-7c93-4dbb-9a0f-039f740838d0-attachment.png' type='image/png' size='48988'/>
+            </attachments>
+        </test-case>
+        <test-case start='1590009449265' status='passed' stop='1590009451108'>
+            <name>Senha em branco</name>
+            <title>Senha em branco</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e6c5ee1d-701e-4f6e-8fb7-a7acc39fac67-attachment.png' type='image/png' size='54797'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

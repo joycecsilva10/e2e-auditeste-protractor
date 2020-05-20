@@ -1,0 +1,78 @@
+{
+  "uid" : "5ff11304f79ecd93",
+  "name" : "Senha em branco",
+  "fullName" : "Login.Senha em branco",
+  "historyId" : "1b97aa043c80682734e704e857d3c813",
+  "time" : {
+    "start" : 1590009689991,
+    "stop" : 1590009691704,
+    "duration" : 1713
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8deb7bd7cd31289",
+      "name" : "Screenshot",
+      "source" : "d8deb7bd7cd31289.png",
+      "type" : "image/png",
+      "size" : 54797
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "Senha em branco"
+  }, {
+    "name" : "package",
+    "value" : "Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f3cb3a2ae2f9e803",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009574053,
+        "stop" : 1590009575869,
+        "duration" : 1816
+      }
+    }, {
+      "uid" : "8d98d7683defdfaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009449265,
+        "stop" : 1590009451108,
+        "duration" : 1843
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ff11304f79ecd93.json",
+  "parameterValues" : [ ]
+}

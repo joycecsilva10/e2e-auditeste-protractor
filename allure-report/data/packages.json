@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Login",
+    "children" : [ {
+      "name" : "Login com sucesso",
+      "uid" : "6124d116e9568f0c",
+      "parentUid" : "19e178db3ae5a62d0eab84dca72fd59e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009680781,
+        "stop" : 1590009684170,
+        "duration" : 3389
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "senha incorreta",
+      "uid" : "98365f9c2086aa57",
+      "parentUid" : "19e178db3ae5a62d0eab84dca72fd59e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009684178,
+        "stop" : 1590009686381,
+        "duration" : 2203
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "email não cadastrado",
+      "uid" : "c894c240b39eab83",
+      "parentUid" : "19e178db3ae5a62d0eab84dca72fd59e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009686381,
+        "stop" : 1590009688257,
+        "duration" : 1876
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Email em branco",
+      "uid" : "68661c35e7aad0d9",
+      "parentUid" : "19e178db3ae5a62d0eab84dca72fd59e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009688257,
+        "stop" : 1590009689991,
+        "duration" : 1734
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Senha em branco",
+      "uid" : "5ff11304f79ecd93",
+      "parentUid" : "19e178db3ae5a62d0eab84dca72fd59e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009689991,
+        "stop" : 1590009691704,
+        "duration" : 1713
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "19e178db3ae5a62d0eab84dca72fd59e"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,78 @@
+{
+  "uid" : "68661c35e7aad0d9",
+  "name" : "Email em branco",
+  "fullName" : "Login.Email em branco",
+  "historyId" : "a3ed039e24d3f93d77c83483ec1537d3",
+  "time" : {
+    "start" : 1590009688257,
+    "stop" : 1590009689991,
+    "duration" : 1734
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "317861f072d26e06",
+      "name" : "Screenshot",
+      "source" : "317861f072d26e06.png",
+      "type" : "image/png",
+      "size" : 48988
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "Email em branco"
+  }, {
+    "name" : "package",
+    "value" : "Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d6dee945978ede79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009572035,
+        "stop" : 1590009574053,
+        "duration" : 2018
+      }
+    }, {
+      "uid" : "6f60fa3d7ff97786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009447397,
+        "stop" : 1590009449265,
+        "duration" : 1868
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68661c35e7aad0d9.json",
+  "parameterValues" : [ ]
+}

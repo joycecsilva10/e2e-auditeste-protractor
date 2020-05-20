@@ -1,0 +1,78 @@
+{
+  "uid" : "c894c240b39eab83",
+  "name" : "email não cadastrado",
+  "fullName" : "Login.email não cadastrado",
+  "historyId" : "3a39100fbff93eccdc4652e0ad6291f7",
+  "time" : {
+    "start" : 1590009686381,
+    "stop" : 1590009688257,
+    "duration" : 1876
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ef3a3380f1dd37c8",
+      "name" : "Screenshot",
+      "source" : "ef3a3380f1dd37c8.png",
+      "type" : "image/png",
+      "size" : 55868
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "email não cadastrado"
+  }, {
+    "name" : "package",
+    "value" : "Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f43bc9c778665fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009569957,
+        "stop" : 1590009572034,
+        "duration" : 2077
+      }
+    }, {
+      "uid" : "6cd29a7130a7c5ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590009444688,
+        "stop" : 1590009447397,
+        "duration" : 2709
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c894c240b39eab83.json",
+  "parameterValues" : [ ]
+}
