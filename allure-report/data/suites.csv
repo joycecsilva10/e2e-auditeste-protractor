@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed May 20 18:21:29 BRT 2020","Wed May 20 18:21:31 BRT 2020","1713","","Login","","Login","Senha em branco","Senha em branco",""
-"passed","Wed May 20 18:21:28 BRT 2020","Wed May 20 18:21:29 BRT 2020","1734","","Login","","Login","Email em branco","Email em branco",""
-"passed","Wed May 20 18:21:26 BRT 2020","Wed May 20 18:21:28 BRT 2020","1876","","Login","","Login","email não cadastrado","email não cadastrado",""
-"passed","Wed May 20 18:21:20 BRT 2020","Wed May 20 18:21:24 BRT 2020","3389","","Login","","Login","Login com sucesso","Login com sucesso",""
-"passed","Wed May 20 18:21:24 BRT 2020","Wed May 20 18:21:26 BRT 2020","2203","","Login","","Login","senha incorreta","senha incorreta",""
