@@ -1,18 +1,3 @@
-// exports.config = {
-//     framework: 'jasmine',
-//     seleniumAddress: 'http://localhost:4444/wd/hub',
-//     specs: ['specs/*.specs.js'],
-//     baseUrl: 'http://187.35.155.198:5722/',
-//     jasmineNodeOpts: {
-//         onComplete: null,
-//         showColors: true,
-//         includeStackTrace: true,
-//         defaultTimeoutInterval: 360000,
-//         isVerbose: true,
-//         print() {}
-//       }
-// }
-
 exports.config = {
     capabilities: {
       browserName: 'chrome',
