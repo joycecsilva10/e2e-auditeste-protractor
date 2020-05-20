@@ -12,19 +12,13 @@ npm install
 
 ## Using
 
-1. Execute selenium
-
-```sh
-npm start
-```
-
-2. Run the tests
+1. Run the tests
 
 ```sh
 protractor
 ```
 
-3. Create report allure-reports
+2. Create report allure-reports
 
 ```sh
 allure generate --clean
